@@ -20,9 +20,9 @@ me = ComputerScienceStudent()
 me.say_hi()
 ```
 
-<a href="https://github.com/wolflergf/convoychat">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolflergf&layout=compact&langs_count=8&card_width=320&theme=apprentice"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wolflergf&show_icons=true&theme=apprentice" alt="wolflergf"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wolflergf&show_icons=true&theme=apprentice"/>
 </a>
 
 
