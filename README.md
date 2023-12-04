@@ -6,13 +6,16 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# Define a class called ComputerScienceStudent to represent a student in the field of computer science.
 class ComputerScienceStudent:
 
+    # Constructor method (__init__) to initialize the object with the provided name, role, and language_spoken.
     def __init__(self, name, role, language_spoken):
         self.name = name
         self.role = role
         self.language_spoken = language_spoken
 
+    # Method to greet and introduce the computer science student.
     def say_hi(self):
         print(f"Hey there! I'm {self.name}, a {self.role} student.")
         print("Thanks for dropping by. I hope you find some of my work interesting.")
@@ -22,11 +25,12 @@ my_name = "Wolfler Guzzo Ferreira"
 my_role = "Computer Science / Data Science"
 my_languages = ["pt_BR", "en_UK"]
 
-# Create an instance of the ComputerScienceStudent class
+# Create an instance of the ComputerScienceStudent class with the provided details.
 me = ComputerScienceStudent(name=my_name, role=my_role, language_spoken=my_languages)
 
-# Call the say_hi method
+# Call the say_hi method to print a personalized greeting.
 me.say_hi()
+
 
 # Additional Information:
 # ------------------------
