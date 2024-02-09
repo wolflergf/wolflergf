@@ -35,7 +35,7 @@ me.say_hi()
 # Additional Information:
 # ------------------------
 # Full Name: Wolfler Guzzo Ferreira
-# Profession/Occupation: Currently doing a Data Science BootCamp at Cogramar. Studying Computer Science at 
+# Profession/Occupation: Currently doing a Data Science BootCamp at HyperionDev. Studying Computer Science at 
 # Estacio de Sa.
 # Educational Background: Pursuing a degree in Computer Science.
 # Work Experience: 13 years at ArcelorMittal Tubarão, with the last position being Operations Supervisor at 
